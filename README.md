@@ -1,6 +1,6 @@
-### Hi there, I'm Samuel 👋
+# Hi there, I'm Samuel 👋
 
-## I'm a student, currently working to become an excellent web developer!
+### I'm a student, currently working to become an excellent web developer!
 - 🌱 Currently learning Angular
 - ⛳ My goal for the years to come is to learn more about web development and Web3.0
 - ⚡ Fun fact: I love to play basketball ⛹🏾
